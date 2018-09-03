@@ -9,6 +9,7 @@
 * ShadowsocksR-4.6.1-win.7z - C#客户端，4.6.1版本（官方Release）
 * ShadowsocksR-3.4.0.5.apk - Android客户端，3.4.0.5版本
 * ShadowsocksX-NG.1.5.1.zip - macOS客户端，1.5.1版本
+* ShadowsocksX-NG-R8.dmg - macOS客户端
 
 ## Client (Source Code)
 * ShadowsocksR-android-3.4.0.6.6-src.zip - Android客户端源码，3.4.0.6.6版本
